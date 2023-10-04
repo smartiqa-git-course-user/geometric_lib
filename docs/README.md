@@ -9,4 +9,6 @@
 - Rectangle: P = 2a + 2b
 - Square: P = 4a
 
+## SS SS SS 
+
 # Some change for Lesson 6 practice
