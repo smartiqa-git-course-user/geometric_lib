@@ -10,3 +10,4 @@
 - Square: P = 4a
 
 # Some change for Lesson 6 practice
+<! -- 2 Смотрим текущее состояние репозитория -->
